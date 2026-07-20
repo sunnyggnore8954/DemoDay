@@ -35,13 +35,13 @@ DANGER 판별 시 → 모빌리티 대여 제한 시스템과 연계
 ＞ 학습 과정의 손실값과 평가 지표를 그래프로 확인하고, 혼동 행렬을 통해 실제 정답과 모델의 예측 결과를 비교했습니다. 새로운 이미지를 입력했을 때 SAFE 또는 DANGER 결과가 출력되는지도 테스트했습니다.
 
 ## 🛠 사용 기술 :
-Python - 전체 모델 개발 및 데이터 처리
-TensorFlow / Keras - CNN 이미지 분류 모델 설계와 학습
-OpenCV -	이미지 불러오기, 크기 조정 및 전처리
-NumPy	- 이미지와 라벨 데이터 배열 처리
-Scikit-learn -	학습·테스트 데이터 분리 및 성능 평가
-Matplotlib / Seaborn -	학습 결과와 혼동 행렬 시각화
-Google Colab -	모델 학습 및 실행 환경
+Python - 전체 모델 개발 및 데이터 처리、
+TensorFlow / Keras - CNN 이미지 분류 모델 설계와 학습、
+OpenCV -	이미지 불러오기, 크기 조정 및 전처리、
+NumPy	- 이미지와 라벨 데이터 배열 처리、
+Scikit-learn -	학습·테스트 데이터 분리 및 성능 평가、
+Matplotlib / Seaborn -	학습 결과와 혼동 행렬 시각화、
+Google Colab -	모델 학습 및 실행 환경、
 
 ## 👤 담당 역할 :
 1. 데이터 구축
